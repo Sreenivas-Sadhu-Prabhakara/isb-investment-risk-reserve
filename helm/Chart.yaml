@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-investment-risk-reserve
+description: "BIAN Service Domain: Investment Risk Reserve (Manage pattern, Deposits and Investment Accounts)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - manage
+annotations:
+  isb/business-area: "Deposits and Investment Accounts"
+  isb/business-domain: "Profit Management"
+  isb/asset-type: "Investment Risk Reserve"
+  isb/control-record: "Investment Risk Reserve Management Plan"
